@@ -1,3 +1,5 @@
+### Patika -> https://app.patika.dev/seymackc
+
 # **Kodluyoruz Ilk Repo**
 ---
 
